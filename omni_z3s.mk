@@ -7,6 +7,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := omni_z3s
 PRODUCT_DEVICE := z3s
-PRODUCT_MODEL := SM-F988B
+PRODUCT_MODEL := SM-G988B
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
